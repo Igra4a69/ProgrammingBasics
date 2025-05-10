@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nums1To10", "Nums1To10\Nums
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{0E9A84B9-B53D-4DE9-AF5A-6F530A6A26EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchestoCentimeters", "InchestoCentimeters\InchestoCentimeters.csproj", "{96B44819-A0E5-461E-A6BB-599B80CA2A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{0E9A84B9-B53D-4DE9-AF5A-6F530A6A26EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E9A84B9-B53D-4DE9-AF5A-6F530A6A26EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E9A84B9-B53D-4DE9-AF5A-6F530A6A26EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B44819-A0E5-461E-A6BB-599B80CA2A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B44819-A0E5-461E-A6BB-599B80CA2A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B44819-A0E5-461E-A6BB-599B80CA2A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B44819-A0E5-461E-A6BB-599B80CA2A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

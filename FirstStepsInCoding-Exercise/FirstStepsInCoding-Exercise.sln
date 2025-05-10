@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USDtoBGN", "USDtoBGN\USDtoB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadianstoDegrees", "RadianstoDegrees\RadianstoDegrees.csproj", "{05F7E310-2C4D-46AD-B7E2-F8A63675C225}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepositCalculator", "DepositCalculator\DepositCalculator.csproj", "{D2C5108A-A535-42A1-A629-F5E73B3AD765}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{05F7E310-2C4D-46AD-B7E2-F8A63675C225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05F7E310-2C4D-46AD-B7E2-F8A63675C225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05F7E310-2C4D-46AD-B7E2-F8A63675C225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C5108A-A535-42A1-A629-F5E73B3AD765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C5108A-A535-42A1-A629-F5E73B3AD765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C5108A-A535-42A1-A629-F5E73B3AD765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C5108A-A535-42A1-A629-F5E73B3AD765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

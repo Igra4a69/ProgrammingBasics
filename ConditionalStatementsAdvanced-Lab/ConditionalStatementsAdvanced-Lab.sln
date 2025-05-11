@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberinRange", "NumberinRa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingHours", "WorkingHours\WorkingHours.csproj", "{03509C1F-A670-4039-BB50-42985C27B777}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaTicket", "CinemaTicket\CinemaTicket.csproj", "{3E573260-2C11-4BD4-BB9D-53F6FCB20518}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{03509C1F-A670-4039-BB50-42985C27B777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03509C1F-A670-4039-BB50-42985C27B777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03509C1F-A670-4039-BB50-42985C27B777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E573260-2C11-4BD4-BB9D-53F6FCB20518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E573260-2C11-4BD4-BB9D-53F6FCB20518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E573260-2C11-4BD4-BB9D-53F6FCB20518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E573260-2C11-4BD4-BB9D-53F6FCB20518}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcellentResult", "ExcellentResult\ExcellentResult.csproj", "{E8715D8E-B0E0-4BE6-ADA5-7E871924FFDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterNumber", "GreaterNumber\GreaterNumber.csproj", "{417040E1-4F75-4DA5-81C6-2D9FE406E54F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E8715D8E-B0E0-4BE6-ADA5-7E871924FFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8715D8E-B0E0-4BE6-ADA5-7E871924FFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8715D8E-B0E0-4BE6-ADA5-7E871924FFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417040E1-4F75-4DA5-81C6-2D9FE406E54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417040E1-4F75-4DA5-81C6-2D9FE406E54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417040E1-4F75-4DA5-81C6-2D9FE406E54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417040E1-4F75-4DA5-81C6-2D9FE406E54F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

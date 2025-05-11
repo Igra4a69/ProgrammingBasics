@@ -4,10 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Вход: четем цяло число
         int number = int.Parse(Console.ReadLine());
-
-        // Проверки
+        
         if (number < 100)
         {
             Console.WriteLine("Less than 100");

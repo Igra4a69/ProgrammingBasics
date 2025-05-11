@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacationBooksList", "Vacati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuppliesforSchool", "SuppliesforSchool\SuppliesforSchool.csproj", "{A6C9A587-436F-4A7E-98A8-15F05C237502}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repainting", "Repainting\Repainting.csproj", "{BEEE5D74-7478-4DE1-9418-E2F28DD4A38D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{A6C9A587-436F-4A7E-98A8-15F05C237502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6C9A587-436F-4A7E-98A8-15F05C237502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6C9A587-436F-4A7E-98A8-15F05C237502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEE5D74-7478-4DE1-9418-E2F28DD4A38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEE5D74-7478-4DE1-9418-E2F28DD4A38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEE5D74-7478-4DE1-9418-E2F28DD4A38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEE5D74-7478-4DE1-9418-E2F28DD4A38D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

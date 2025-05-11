@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalTitles", "PersonalT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallShop", "SmallShop\SmallShop.csproj", "{58029788-89CF-4813-BCF4-ED93BDCF3EDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberinRange", "NumberinRange\NumberinRange.csproj", "{5B8D1C4D-10D1-401F-8AE2-A774EFF1D974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{58029788-89CF-4813-BCF4-ED93BDCF3EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58029788-89CF-4813-BCF4-ED93BDCF3EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58029788-89CF-4813-BCF4-ED93BDCF3EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8D1C4D-10D1-401F-8AE2-A774EFF1D974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8D1C4D-10D1-401F-8AE2-A774EFF1D974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8D1C4D-10D1-401F-8AE2-A774EFF1D974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8D1C4D-10D1-401F-8AE2-A774EFF1D974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

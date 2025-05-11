@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop", "ToyShop\ToyShop.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godzillavs.Kong", "Godzillavs.Kong\Godzillavs.Kong.csproj", "{DB95ED0B-FBCB-4BD1-87B4-D4E147B7E910}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldSwimmingRecord", "WorldSwimmingRecord\WorldSwimmingRecord.csproj", "{72F962F0-260E-41EB-9948-513242F48ED9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{DB95ED0B-FBCB-4BD1-87B4-D4E147B7E910}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB95ED0B-FBCB-4BD1-87B4-D4E147B7E910}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB95ED0B-FBCB-4BD1-87B4-D4E147B7E910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F962F0-260E-41EB-9948-513242F48ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F962F0-260E-41EB-9948-513242F48ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F962F0-260E-41EB-9948-513242F48ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F962F0-260E-41EB-9948-513242F48ED9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

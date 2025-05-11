@@ -9,11 +9,11 @@ class Program
 
         if (hour >= 10 && hour <= 18 && day != "Sunday")
         {
-            Console.WriteLine("Open");
+            Console.WriteLine("open");
         }
         else
         {
-            Console.WriteLine("Closed");
+            Console.WriteLine("closed");
         }
     }
 }

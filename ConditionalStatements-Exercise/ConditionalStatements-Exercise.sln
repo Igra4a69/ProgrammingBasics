@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSeconds", "SumSeconds\Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScore", "BonusScore\BonusScore.csproj", "{78033080-2D4F-4E94-8775-48428CB5A9BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimePlus15Minutes", "TimePlus15Minutes\TimePlus15Minutes.csproj", "{409AC894-DA64-4EAD-B84B-A11C25136E93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{78033080-2D4F-4E94-8775-48428CB5A9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78033080-2D4F-4E94-8775-48428CB5A9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78033080-2D4F-4E94-8775-48428CB5A9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{409AC894-DA64-4EAD-B84B-A11C25136E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409AC894-DA64-4EAD-B84B-A11C25136E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409AC894-DA64-4EAD-B84B-A11C25136E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409AC894-DA64-4EAD-B84B-A11C25136E93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

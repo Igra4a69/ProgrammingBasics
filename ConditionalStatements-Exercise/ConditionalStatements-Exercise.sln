@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimePlus15Minutes", "TimePl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop", "ToyShop\ToyShop.csproj", "{8C03682F-E150-42BA-B895-E78A5CA14359}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godzillavs.Kong", "Godzillavs.Kong\Godzillavs.Kong.csproj", "{DB95ED0B-FBCB-4BD1-87B4-D4E147B7E910}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{8C03682F-E150-42BA-B895-E78A5CA14359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C03682F-E150-42BA-B895-E78A5CA14359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C03682F-E150-42BA-B895-E78A5CA14359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB95ED0B-FBCB-4BD1-87B4-D4E147B7E910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB95ED0B-FBCB-4BD1-87B4-D4E147B7E910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB95ED0B-FBCB-4BD1-87B4-D4E147B7E910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB95ED0B-FBCB-4BD1-87B4-D4E147B7E910}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcellentResult", "Excellen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterNumber", "GreaterNumber\GreaterNumber.csproj", "{417040E1-4F75-4DA5-81C6-2D9FE406E54F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenorOdd", "EvenorOdd\EvenorOdd.csproj", "{84489FD2-FE72-4ED4-AD27-78355A7CCE3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{417040E1-4F75-4DA5-81C6-2D9FE406E54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{417040E1-4F75-4DA5-81C6-2D9FE406E54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{417040E1-4F75-4DA5-81C6-2D9FE406E54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84489FD2-FE72-4ED4-AD27-78355A7CCE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84489FD2-FE72-4ED4-AD27-78355A7CCE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84489FD2-FE72-4ED4-AD27-78355A7CCE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84489FD2-FE72-4ED4-AD27-78355A7CCE3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

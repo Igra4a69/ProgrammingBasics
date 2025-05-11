@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godzillavs.Kong", "Godzilla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldSwimmingRecord", "WorldSwimmingRecord\WorldSwimmingRecord.csproj", "{72F962F0-260E-41EB-9948-513242F48ED9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping", "Shopping\Shopping.csproj", "{84A86021-BC70-471D-B56F-6BF89E809BA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{72F962F0-260E-41EB-9948-513242F48ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72F962F0-260E-41EB-9948-513242F48ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72F962F0-260E-41EB-9948-513242F48ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A86021-BC70-471D-B56F-6BF89E809BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A86021-BC70-471D-B56F-6BF89E809BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A86021-BC70-471D-B56F-6BF89E809BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A86021-BC70-471D-B56F-6BF89E809BA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

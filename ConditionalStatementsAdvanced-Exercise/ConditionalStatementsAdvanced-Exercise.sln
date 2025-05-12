@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelRoom", "HotelRoom\Hote
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTimefortheExam", "OnTimefortheExam\OnTimefortheExam.csproj", "{268B4B6D-ADFF-42D4-BD86-BAE4ECD43CFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiTrip", "SkiTrip\SkiTrip.csproj", "{91BB1B33-1BFE-4B61-A0BF-4875CA124E65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{268B4B6D-ADFF-42D4-BD86-BAE4ECD43CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{268B4B6D-ADFF-42D4-BD86-BAE4ECD43CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{268B4B6D-ADFF-42D4-BD86-BAE4ECD43CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BB1B33-1BFE-4B61-A0BF-4875CA124E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BB1B33-1BFE-4B61-A0BF-4875CA124E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BB1B33-1BFE-4B61-A0BF-4875CA124E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BB1B33-1BFE-4B61-A0BF-4875CA124E65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

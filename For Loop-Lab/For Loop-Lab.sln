@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersN1", "NumbersN1\Numb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers1NwithStep3", "Numbers1NwithStep3\Numbers1NwithStep3.csproj", "{73E482E6-3450-442D-B479-EFCC979A9423}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenPowersof2", "EvenPowersof2\EvenPowersof2.csproj", "{5F4AF3DC-EFD8-4293-B9C8-B04BC5A2DEF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{73E482E6-3450-442D-B479-EFCC979A9423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73E482E6-3450-442D-B479-EFCC979A9423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73E482E6-3450-442D-B479-EFCC979A9423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4AF3DC-EFD8-4293-B9C8-B04BC5A2DEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4AF3DC-EFD8-4293-B9C8-B04BC5A2DEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4AF3DC-EFD8-4293-B9C8-B04BC5A2DEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4AF3DC-EFD8-4293-B9C8-B04BC5A2DEF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterSequence", "Charac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsSum", "VowelsSum\VowelsSum.csproj", "{BABB9EBA-5D8A-47A2-97ED-41B49CA21B43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{2163295C-74C4-4DA6-8ED8-7560594EF048}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{BABB9EBA-5D8A-47A2-97ED-41B49CA21B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BABB9EBA-5D8A-47A2-97ED-41B49CA21B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BABB9EBA-5D8A-47A2-97ED-41B49CA21B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2163295C-74C4-4DA6-8ED8-7560594EF048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2163295C-74C4-4DA6-8ED8-7560594EF048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2163295C-74C4-4DA6-8ED8-7560594EF048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2163295C-74C4-4DA6-8ED8-7560594EF048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

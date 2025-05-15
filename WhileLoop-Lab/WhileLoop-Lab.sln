@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence2k1", "Sequence2k1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountBalance", "AccountBalance\AccountBalance.csproj", "{F8BBF566-9977-4D0E-A5C0-A42E59A26B66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxNumber", "MaxNumber\MaxNumber.csproj", "{F4B88C3F-DA93-41DD-9955-8EB06F77E803}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{F8BBF566-9977-4D0E-A5C0-A42E59A26B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8BBF566-9977-4D0E-A5C0-A42E59A26B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8BBF566-9977-4D0E-A5C0-A42E59A26B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B88C3F-DA93-41DD-9955-8EB06F77E803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B88C3F-DA93-41DD-9955-8EB06F77E803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B88C3F-DA93-41DD-9955-8EB06F77E803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B88C3F-DA93-41DD-9955-8EB06F77E803}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

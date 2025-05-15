@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxNumber", "MaxNumber\MaxN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinNumber", "MinNumber\MinNumber.csproj", "{CC4D44A9-92AA-40BF-8FBD-BABA483C0E53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation", "Graduation\Graduation.csproj", "{BAB74F94-2EA8-48EB-BDC6-9EABB9D1452A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{CC4D44A9-92AA-40BF-8FBD-BABA483C0E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC4D44A9-92AA-40BF-8FBD-BABA483C0E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC4D44A9-92AA-40BF-8FBD-BABA483C0E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB74F94-2EA8-48EB-BDC6-9EABB9D1452A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB74F94-2EA8-48EB-BDC6-9EABB9D1452A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB74F94-2EA8-48EB-BDC6-9EABB9D1452A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB74F94-2EA8-48EB-BDC6-9EABB9D1452A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

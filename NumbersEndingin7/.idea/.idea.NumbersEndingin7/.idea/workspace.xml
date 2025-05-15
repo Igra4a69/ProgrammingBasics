@@ -7,15 +7,14 @@
     <projectFile>NumbersEndingin7/NumbersEndingin7.csproj</projectFile>
     <projectFile>Oscars/Oscars.csproj</projectFile>
     <projectFile>Salary/Salary.csproj</projectFile>
+    <projectFile>TennisRanklist/TennisRanklist.csproj</projectFile>
+    <projectFile>TrekkingMania/TrekkingMania.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9af640c0-6809-4d10-8f7a-4e0b06873208" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NumbersEndingin7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NumbersEndingin7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForLoop-Exercise.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoop-Exercise.sln" afterDir="false" />
-    </list>
+    <list default="true" id="9af640c0-6809-4d10-8f7a-4e0b06873208" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -253,7 +252,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747316748496</updated>
-      <workItem from="1747316749860" duration="942000" />
+      <workItem from="1747316749860" duration="1139000" />
     </task>
     <task id="LOCAL-00001" summary="add Numbers Ending in 7">
       <option name="closed" value="true" />
@@ -295,7 +294,31 @@
       <option name="project" value="LOCAL" />
       <updated>1747317620718</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add Oscars">
+      <option name="closed" value="true" />
+      <created>1747317716912</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747317716912</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add Trekking Mania">
+      <option name="closed" value="true" />
+      <created>1747317809403</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747317809403</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add Tennis Ranklist">
+      <option name="closed" value="true" />
+      <created>1747317894852</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747317894852</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +333,10 @@
     <MESSAGE value="add Histogram" />
     <MESSAGE value="add Clever Lily" />
     <MESSAGE value="add Salary" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Salary" />
+    <MESSAGE value="add Oscars" />
+    <MESSAGE value="add Trekking Mania" />
+    <MESSAGE value="add Tennis Ranklist" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Tennis Ranklist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

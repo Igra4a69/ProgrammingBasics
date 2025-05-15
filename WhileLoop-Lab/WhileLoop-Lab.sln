@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "Password\Passwo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{69C705C9-56EB-4098-A1C2-E9AACCC6480B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence2k1", "Sequence2k1\Sequence2k1.csproj", "{3A49DA4F-B583-4C2E-97B4-7D5B8B47F18C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{69C705C9-56EB-4098-A1C2-E9AACCC6480B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C705C9-56EB-4098-A1C2-E9AACCC6480B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C705C9-56EB-4098-A1C2-E9AACCC6480B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A49DA4F-B583-4C2E-97B4-7D5B8B47F18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A49DA4F-B583-4C2E-97B4-7D5B8B47F18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A49DA4F-B583-4C2E-97B4-7D5B8B47F18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A49DA4F-B583-4C2E-97B4-7D5B8B47F18C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

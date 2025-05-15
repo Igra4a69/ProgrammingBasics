@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadText", "ReadText\ReadText.csproj", "{0AFBD8BD-E36D-4CD8-AB75-07DD7AF5ACF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "Password\Password.csproj", "{1C20EA63-7557-4377-9FB8-65E5FB60E92C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0AFBD8BD-E36D-4CD8-AB75-07DD7AF5ACF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AFBD8BD-E36D-4CD8-AB75-07DD7AF5ACF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AFBD8BD-E36D-4CD8-AB75-07DD7AF5ACF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C20EA63-7557-4377-9FB8-65E5FB60E92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C20EA63-7557-4377-9FB8-65E5FB60E92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C20EA63-7557-4377-9FB8-65E5FB60E92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C20EA63-7557-4377-9FB8-65E5FB60E92C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

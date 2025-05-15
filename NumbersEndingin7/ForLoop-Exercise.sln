@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersEndingin7", "Numbers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfSumElement", "HalfSumElement\HalfSumElement.csproj", "{CFDC024F-3A3B-44AC-935C-96F5DD6E4057}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{C0C944EE-B79D-4DFE-9FDC-C291699BFF96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{CFDC024F-3A3B-44AC-935C-96F5DD6E4057}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFDC024F-3A3B-44AC-935C-96F5DD6E4057}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFDC024F-3A3B-44AC-935C-96F5DD6E4057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C944EE-B79D-4DFE-9FDC-C291699BFF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C944EE-B79D-4DFE-9FDC-C291699BFF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C944EE-B79D-4DFE-9FDC-C291699BFF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C944EE-B79D-4DFE-9FDC-C291699BFF96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

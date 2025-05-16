@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walking", "Walking\Walking.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coins", "Coins\Coins.csproj", "{8A40748B-CC7F-4691-AA75-0B46D8669DFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake", "Cake\Cake.csproj", "{2B192574-3ED3-4097-8161-4D0B811C0D60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{8A40748B-CC7F-4691-AA75-0B46D8669DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A40748B-CC7F-4691-AA75-0B46D8669DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A40748B-CC7F-4691-AA75-0B46D8669DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B192574-3ED3-4097-8161-4D0B811C0D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B192574-3ED3-4097-8161-4D0B811C0D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B192574-3ED3-4097-8161-4D0B811C0D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B192574-3ED3-4097-8161-4D0B811C0D60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

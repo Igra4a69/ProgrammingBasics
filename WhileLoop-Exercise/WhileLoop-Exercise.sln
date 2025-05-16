@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacation", "Vacation\Vacati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walking", "Walking\Walking.csproj", "{23CA8A0E-8693-4180-9C96-C96A85354DCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coins", "Coins\Coins.csproj", "{8A40748B-CC7F-4691-AA75-0B46D8669DFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{23CA8A0E-8693-4180-9C96-C96A85354DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23CA8A0E-8693-4180-9C96-C96A85354DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23CA8A0E-8693-4180-9C96-C96A85354DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A40748B-CC7F-4691-AA75-0B46D8669DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A40748B-CC7F-4691-AA75-0B46D8669DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A40748B-CC7F-4691-AA75-0B46D8669DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A40748B-CC7F-4691-AA75-0B46D8669DFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofTwoNumbers", "SumofTwo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travelling", "Travelling\Travelling.csproj", "{8453BB67-103F-4BBC-87F2-64FD23D7CB4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Building", "Building\Building.csproj", "{D5D0CFA2-3193-4005-8AD5-83EB5337DF5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{8453BB67-103F-4BBC-87F2-64FD23D7CB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8453BB67-103F-4BBC-87F2-64FD23D7CB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8453BB67-103F-4BBC-87F2-64FD23D7CB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D0CFA2-3193-4005-8AD5-83EB5337DF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D0CFA2-3193-4005-8AD5-83EB5337DF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D0CFA2-3193-4005-8AD5-83EB5337DF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D0CFA2-3193-4005-8AD5-83EB5337DF5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinations", "Combination
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofTwoNumbers", "SumofTwoNumbers\SumofTwoNumbers.csproj", "{8BC39085-E117-4AE7-89C4-25B4B9712EDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travelling", "Travelling\Travelling.csproj", "{8453BB67-103F-4BBC-87F2-64FD23D7CB4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{8BC39085-E117-4AE7-89C4-25B4B9712EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BC39085-E117-4AE7-89C4-25B4B9712EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BC39085-E117-4AE7-89C4-25B4B9712EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8453BB67-103F-4BBC-87F2-64FD23D7CB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8453BB67-103F-4BBC-87F2-64FD23D7CB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8453BB67-103F-4BBC-87F2-64FD23D7CB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8453BB67-103F-4BBC-87F2-64FD23D7CB4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

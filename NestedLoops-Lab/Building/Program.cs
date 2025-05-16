@@ -11,15 +11,15 @@ class Program
         {
             for (int room = 0; room < roomsPerFloor; room++)
             {
-                if (floor == floors) // последен етаж - апартаменти с L
+                if (floor == floors) 
                 {
                     Console.Write($"L{floor}{room} ");
                 }
-                else if (floor % 2 == 0) // четен етаж - офиси
+                else if (floor % 2 == 0) 
                 {
                     Console.Write($"O{floor}{room} ");
                 }
-                else // нечетен етаж - апартаменти
+                else 
                 {
                     Console.Write($"A{floor}{room} ");
                 }
